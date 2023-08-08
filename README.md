@@ -1,1 +1,1 @@
-My first shell
+make shell basics
